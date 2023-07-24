@@ -3,7 +3,7 @@ name : upload portfolio to S3
 on: 
   Push:
     branches:
-    - main
+    - Sandeep-Portfolio
 
 jobs:
   deploy:
