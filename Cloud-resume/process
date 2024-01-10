@@ -1,0 +1,6 @@
+Create Resume in Html and css format
+In AWS Console Create s3 bucket and Upload resume in that s3 bucket
+AWS Console Open Route53 and register a domain name.
+In Aws Console Open CloudFront create CloudFront Distrubution. after createing distrubution add cname as your Domain name which was registered in Route53
+Create a DynomaDB table with the name Portfolio-Resume.In that table add Iteams as id = 0, Views = 0.
+After that create Lambda function. In lambda need to write Python code for Number views for the portfolio and in that same function need to write number views add to be in DynamoDB Table.
